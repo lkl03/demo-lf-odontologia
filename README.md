@@ -1,2 +1,7 @@
-# demo-lf-odontologia
-Demo web para LF Odontología — diseñada por eterlab.
+# LF Odontología
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
